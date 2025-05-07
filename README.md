@@ -65,6 +65,8 @@ Responsive frontend video-stream-web-app using React — includes search, video 
   <img src="https://github-readme-stats.vercel.app/api?username=ezekieloyedijo&show_icons=true&theme=tokyonight" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezekieloyedijo&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekieloyedijo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
