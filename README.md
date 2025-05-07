@@ -36,7 +36,7 @@ Worked with a small agile team to build reusable frontend components and impleme
 
 ---
 
-<! -- ### 💻 **ALX Shell Clone (C Project)**
+<!-- ### 💻 **ALX Shell Clone (C Project)**
 A simplified version of the Unix shell built from scratch — includes parsing, execution, and memory management.
 
 🔗 [GitHub Repo](https://github.com/ezekieloyedijo/simple_shell) -->
