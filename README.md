@@ -23,7 +23,7 @@ Full-stack banking app with account linking via **Plaid**, identity verification
 
 > _Tools:_ Next.js, TailwindCSS, Appwrite, Plaid API, Sentry
 
-🔗 [GitHub Repo](https://github.com/ezekieloyedijo/nextjs-banking-dashboard) <!-- Replace if needed -->
+🔗 [GitHub Repo](https://github.com/ezekieloyedijo/banking) 
 🖼️ _Screenshots or demo coming soon_
 
 ---
@@ -36,17 +36,17 @@ Worked with a small agile team to build reusable frontend components and impleme
 
 ---
 
-### 💻 **ALX Shell Clone (C Project)**
+<! -- ### 💻 **ALX Shell Clone (C Project)**
 A simplified version of the Unix shell built from scratch — includes parsing, execution, and memory management.
 
-🔗 [GitHub Repo](https://github.com/ezekieloyedijo/simple_shell)
+🔗 [GitHub Repo](https://github.com/ezekieloyedijo/simple_shell) -->
 
 ---
 
-### 📺 **YouTube UI Clone**
-Responsive frontend clone of YouTube using React — includes search, video player, and dark mode.
+### 📺 **Video Stream Web App**
+Responsive frontend video-stream-web-app using React — includes search, video player, and dark mode.
 
-🔗 [GitHub Repo](https://github.com/ezekieloyedijo/youtube-clone)
+🔗 [GitHub Repo](https://github.com/ezekieloyedijo/video-stream-web-app)
 
 ---
 
