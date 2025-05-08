@@ -9,7 +9,7 @@ Currently, I'm enrolled in the **ALX Backend Engineering Program**, diving deep 
 ## 🌟 Highlights
 
 - ⚛️ 2+ years building modern UIs with **React** and **Next.js**
-- 🔁 Backend experience with **Python**, **Node.js**, **MySQL**, and **Shell**
+- 🔁 Backend experience with **Python**, **MySQL**, and **Shell**
 - 🚀 Currently mastering backend systems through **ALX**
 - 👥 Collaborated with a team at **Octiver** on internal enterprise tools *(private repo)*
 - 🧠 Passionate about clean code, problem-solving, and continuous learning
@@ -53,7 +53,7 @@ Responsive frontend video-stream-web-app using React — includes search, video 
 ## 🛠️ Tech Stack
 
 **Frontend**: React, Next.js, TypeScript, Tailwind, Zustand  
-**Backend**: Node.js, Python, Shell, MySQL  
+**Backend**: Python, Shell, MySQL  
 **Dev Tools**: Git, Docker, Linux, Appwrite, Postman  
 **Learning**: Distributed systems, system design, CI/CD
 
